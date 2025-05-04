@@ -1,7 +1,8 @@
 # Superstore-Analysis and Dashboard
 This project focuses on analyzing sales, profit, customer behavior, and product performance using Microsoft Excel. The dataset contains information on orders, customers, shipping details, and financial metrics. The analysis is presented through Pivot Tables, Pivot Charts, and interactive Slicers, making the dashboard visually appealing and insightful.
 
-#
+#![Screenshot 2025-05-04 233238](https://github.com/user-attachments/assets/6886bceb-b732-4981-8f17-a90b70fb726f)
+
 
 
 # Key Objectives
